@@ -1,6 +1,10 @@
 # YouLoader: Professional Media Archiver
 
-> **If this tool helps you build your ultimate archive, please consider giving it a ⭐ star to support the project!**
+> **If this tool helps you build your ultimate archive, consider giving it a ⭐. This keeps the repo alive and the commits coming.**
+
+> **And if it made your day a little easier (or at least didn’t crash your machine, we take those wins), you can drop a small tip to keep the coffee flowing ☕.**
+> - **PayPal:** [vwakhungila10@gmail.com](mailto:vwakhungila10@gmail.com)
+> - **Ethereum (ETH):** `0x37a6A9094867c331477EDa7D7A3c250D5ba5D048`
 
 YouLoader is a high-performance, professional-grade archival system built to sync your favorite YouTube channels and playlists with surgical precision. Stop settling for low-quality rips—start building a robust, organized, and permanent media library today.
 
@@ -32,11 +36,11 @@ Before running YouLoader, you must have the following installed:
 Clone this repository and install the required dependencies: 
 
 ```bash
-git clone https://github.com/yourusername/youloader.git
-cd youloader
+git clone git@github.com:Wakhungila/media-archiver.git
+cd media-archiver
 
 # Windows (CMD/PowerShell)
-pip install -r requirements.txt
+pip install -r requirements.txt --break-system-packages
 
 # Linux/WSL
 pip install -r requirements.txt --break-system-packages
@@ -87,12 +91,6 @@ python youloader.py "https://www.youtube.com/playlist?list=..." --quality 1080
 ```bash
 python youloader.py "https://www.youtube.com/@ChannelName" --list
 ```
-
-
-
-- **PayPal:** [vwakhungila10@gmail.com](mailto:vwakhungila10@gmail.com)
-- **Ethereum (ETH):** `0x37a6A9094867c331477EDa7D7A3c250D5ba5D048`
-
 ---
 
 ## 🤝 Contributing
