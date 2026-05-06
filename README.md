@@ -38,16 +38,19 @@ Before running YouLoader, you must have the following installed:
 ## Installation
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/Wakhungila/media-archiver.git
 cd media-archiver
 
 # Windows (CMD / PowerShell)
 pip install -r requirements.txt
+=======
 git clone git@github.com:Wakhungila/media-archiver.git
 cd media-archiver
 
 # Windows (CMD/PowerShell)
 pip install -r requirements.txt --break-system-packages
+>>>>>>> d8ff4984e6fe8348ec472fbcbc0394bee1442027
 
 # Linux / WSL / macOS
 pip install -r requirements.txt --break-system-packages
