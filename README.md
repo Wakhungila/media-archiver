@@ -104,7 +104,6 @@ python youloader.py "https://www.youtube.com/playlist?list=..." --quality 1080
 ```bash
 python youloader.py "https://www.youtube.com/@ChannelName" --list
 ```
-<<<<<<< HEAD
 
 **Download audio-only at 320kbps with embedded album art:**
 ```bash
@@ -132,8 +131,6 @@ If YouLoader saved you time or helped you build your archive, a small tip keeps 
 - **PayPal:** [vwakhungila10@gmail.com](mailto:vwakhungila10@gmail.com)
 - **Ethereum (ETH):** `0x37a6A9094867c331477EDa7D7A3c250D5ba5D048`
 
-=======
->>>>>>> d8ff4984e6fe8348ec472fbcbc0394bee1442027
 ---
 
 ## 🤝 Contributing
