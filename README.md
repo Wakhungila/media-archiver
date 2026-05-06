@@ -124,13 +124,6 @@ python youloader.py "https://www.youtube.com/playlist?list=..." --threads 3
 
 ---
 
-## Support the Project
-
-If YouLoader saved you time or helped you build your archive, a small tip keeps the project alive:
-
-- **PayPal:** [vwakhungila10@gmail.com](mailto:vwakhungila10@gmail.com)
-- **Ethereum (ETH):** `0x37a6A9094867c331477EDa7D7A3c250D5ba5D048`
-
 ---
 
 ## 🤝 Contributing
